@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/unit-testing-best-practices-in-net-c-3117ea4010b9?sk=5b4cdac557b3e56d97365669a12aa198" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/unit-testing-best-practices-in-net-c" />
 
 # Unit Testing Best Practices In .NET C#
 ### Tips, tricks and best practices of Unit Testing in .NET C# using NUnit and Moq.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*v5qBr4h1qH6i_HavIwGAFQ.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_ec3678fa3bca4036adbcf6aefa5fb109~mv2.png">
 </p>
 
 <br/>
@@ -47,4 +47,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/unit-testing-best-practices-in-net-c-3117ea4010b9?sk=5b4cdac557b3e56d97365669a12aa198
+[Article]: https://www.developmentsimplyput.com/post/unit-testing-best-practices-in-net-c
